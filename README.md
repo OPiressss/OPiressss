@@ -8,8 +8,6 @@
  <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=OPiressss&theme=github_dark&hide_border=true" />
   <br>
-  <h4>Please Star</h4>
-<img href="https://github.com/OPiressss/xv-dev" src="https://github-readme-stats.vercel.app/api/pin/?username=OPiressss&repo=xv-dev&theme=github_dark" />
 </p>
 <!-- 
 [![Resource](https://github-readme-stats.vercel.app/api/pin/?username=OPiressss&repo=xv-dev)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/OPiressss/xv-dev))
